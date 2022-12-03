@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 /*+2 por cuase do \n e do null terminator*/
 char	*ft_current_line(int fd, char **str)
